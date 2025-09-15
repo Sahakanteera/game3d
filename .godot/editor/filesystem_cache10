@@ -1,0 +1,36 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757952575
+Main.gd::GDScript/GDScript::6795737105819043173::1757866778::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::1946344858681233962::1757874085::0::1::::<><><>0<>0<><>::uid://c3252dvvstfq0::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://j65mul6yaqkv::::res://art/Floor Grass Sliced B.glb<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://bd113ccddifuh::::res://art/Box.glb<>uid://1qg20sl2hth1::::res://ScoreLabel.gd
+Mob.gd::GDScript/GDScript::1662423883384764077::1757866778::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Mob.tscn::PackedScene::492840770380503333::1757874085::0::1::::<><><>0<>0<><>::uid://xxj44rvlvfgv::::res://Mob.gd<>uid://chqoahog84lvo::::res://art/Empty Box.glb
+MusicPlayer.tscn::PackedScene/PackedScene::-1::1757866778::0::1::::<><><>0<>0<><>::res://art/House In a Forest Loop.ogg
+Player.gd::GDScript/GDScript::715746367343863431::1757866778::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Player.tscn::PackedScene::8273964046187778922::1757874085::0::1::::<><><>0<>0<><>::uid://kgyidihlh768::::res://Player.gd<>uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://btrlwr6x6jnkn::::res://art/Water bottle.glb
+README.md::TextFile/TextFile::-1::1757873564::0::1::::<><><>0<>0<><>::
+ScoreLabel.gd::GDScript/GDScript::1858353838472230556::1757866778::0::1::::<>Label<><>0<>0<><>::
+ui_theme.tres::Theme/Theme::5930143872682747302::1757866779::0::1::::<><><>0<>0<><>::uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf
+::res://art/::1757872455
+body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><><>0<>0<><>::
+Box.glb::PackedScene/PackedScene::2652289788530962835::1757868244::1757868593::1::::<><><>0<>0<>afa481acd95dcd32e317390efb210fab<>res://.godot/imported/Box.glb-76a352974c3095e378bec2f84d0ded68.scn::uid://cshmogyebkc3n::::res://art/Box_citybits_texture.png
+Box_citybits_texture.png::CompressedTexture2D/CompressedTexture2D::6051445154575950765::1757868244::1757868245::1::::<><><>0<>0<>6e4a2aee958cf143b11790ce379b2d63<>res://.godot/imported/Box_citybits_texture.png-adc2e888c50b16e491c075ec8757f791.s3tc.ctex::
+Empty Box.glb::PackedScene/PackedScene::5298043744424693436::1757872454::1757872455::1::::<><><>0<>0<>d69f4a4efc190da3514ac90b0b582861<>res://.godot/imported/Empty Box.glb-097c92c83bcbe21198466db6bd47ce29.scn::uid://dfvjiusci7lvo::::res://art/Empty Box_House_Props_Diffuse.png
+Empty Box_House_Props_Diffuse.png::CompressedTexture2D/CompressedTexture2D::7554120019767172804::1757872454::1757872455::1::::<><><>0<>0<>5c7e797c94f66131c09f767acde2f9fc<>res://.godot/imported/Empty Box_House_Props_Diffuse.png-1e52e807c992688ea668ba4b2b774359.s3tc.ctex::
+eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><><>0<>0<><>::
+Floor Grass Sliced B.glb::PackedScene/PackedScene::697539311328437705::1757867897::1757867897::1::::<><><>0<>0<>176e65bb8d55196b588830630d195fec<>res://.godot/imported/Floor Grass Sliced B.glb-19cbf1ecef2bdd589283239df37dba30.scn::uid://dojj0gs17kh71::::res://art/Floor Grass Sliced B_tiny_treats_grass_texture.png
+Floor Grass Sliced B_tiny_treats_grass_texture.png::CompressedTexture2D/CompressedTexture2D::8161076703751881478::1757867897::1757867900::1::::<><><>0<>0<>a0e7b70a65c93fbe5e8aa9d3d59eac53<>res://.godot/imported/Floor Grass Sliced B_tiny_treats_grass_texture.png-2c21d5b313941e43e55b0db5e5bb0ab0.s3tc.ctex::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6912470962729766485::1757866778::1757866797::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene/PackedScene::2952940687663745631::1757866778::1757866800::1::::<><><>0<>0<>a780a1250ec97030b0168a6a0460c3f3<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><><>0<>0<><>::
+mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene/PackedScene::8964461739428881931::1757866778::1757866800::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757866778::0::1::::<><><>0<>0<><>::
+Water bottle.glb::PackedScene/PackedScene::3755811250893770989::1757867329::1757867333::1::::<><><>0<>0<>206d2f4c5b2ea0d77147b7046164aa15<>res://.godot/imported/Water bottle.glb-3ad84bcc01c4f806dd0618972b59f317.scn::
+::res://docx/::1757952575
+export_presets.cfg::TextFile::-1::1757952222::0::1::::<><><>0<>0<><>::
+index.apple-touch-icon.png::CompressedTexture2D::3943869492489731955::1757952221::1757952883::1::::<><><>0<>0<>3d83b082f86e5b57e2186d557e0db15e<>res://.godot/imported/index.apple-touch-icon.png-526b16689b030f19669a0dca3b093a34.ctex::
+index.icon.png::CompressedTexture2D::30069102792706477::1757952221::1757952883::1::::<><><>0<>0<>d649a3db4c26f6722f986bdf96cc4d09<>res://.godot/imported/index.icon.png-dea1c0822761e4c79ad8d7a8b26aec35.ctex::
+index.png::CompressedTexture2D::2094019447059683813::1757952221::1757952883::1::::<><><>0<>0<>12bdf53d8b155db7d50aadb60811259d<>res://.godot/imported/index.png-d11eb94b3aa033d661d0347512b41d0d.ctex::
+::res://fonts/::1757866797
+LICENSE.txt::TextFile/TextFile::-1::1757866778::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757866778::1757866797::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
